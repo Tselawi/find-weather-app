@@ -34,11 +34,7 @@ npm run start
 
 👤 **Tariq Selawi**
 
-* Github: [@tselawi](https://github.com/tselawi)
+* Github: [@Tselawi](https://github.com/tselawi)
 * LinkedIn [@Tariq](https://www.linkedin.com/in/tariq-selawi)
 
-## Show your support
 
-Give a ⭐️ if this project helped you!
-
-***
