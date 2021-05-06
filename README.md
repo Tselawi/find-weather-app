@@ -27,7 +27,7 @@
 npm run start
 ```
 ## Deploy
-- [Netlify]
+- [Netlify](https://find-my-weather.netlify.app/)
 
 ***
 ## Author
