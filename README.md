@@ -6,7 +6,7 @@
   <img alr="react-app" src="https://img.shields.io/npm/v/react?color=blue&label=react">
 </p>
 
-> Display Wheather, photos and charts related to the city you are looking for :;
+> Display Wheather, photos and charts related to the city you are looking for ⛈
 
 ## Install
 
@@ -35,6 +35,7 @@ npm run start
 👤 **Tariq Selawi**
 
 * Github: [@tselawi](https://github.com/tselawi)
+* LinkedIn [@Tariq](https://www.linkedin.com/in/tariq-selawi)
 
 ## Show your support
 
